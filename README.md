@@ -19,7 +19,9 @@ Web visit: https://stirring-pasca-288156.netlify.app/. Install as a PWA for nati
 - [License](#license)
 ## Installation
 
-Clone the file, open it on the server and open the project
+1. Clone Repo (git clone https://github.com/Phyllis-wu/Blog_Post)
+2. Open code folder
+3. Run index.html file
     
     
 ## Usage/Examples
